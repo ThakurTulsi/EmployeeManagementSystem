@@ -1,6 +1,6 @@
 //Main class of Employee Management System
 
-package com.birlasoft.empapp;
+package com.tulsi.empapp;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;
