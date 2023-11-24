@@ -1,6 +1,6 @@
 //This is our employee interface 
 
-package com.birlasoft.empapp;
+package com.tulsi.empapp;
 
 public interface EmployeeDAOIntf {
 	
