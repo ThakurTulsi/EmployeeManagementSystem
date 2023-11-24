@@ -1,6 +1,6 @@
 //class for establishing connection with database oracle
 
-package com.birlasoft.empapp;
+package com.tulsi.empapp;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
