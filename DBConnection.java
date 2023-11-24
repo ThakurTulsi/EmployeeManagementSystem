@@ -18,8 +18,8 @@ public class DBConnection {
 			
 			//2. Get connection
 			String url="jdbc:oracle:thin:@localhost:1521:xe";
-			String username="sys as sysdba";
-			String password="welcome12#";
+			String username="username";
+			String password="password";
 			con=DriverManager.getConnection(url,username,password);
 			
 		}catch (Exception ex) {
