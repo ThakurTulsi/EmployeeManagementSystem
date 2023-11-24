@@ -1,6 +1,6 @@
 //this is our class which implements our employee interface i.e EmployeeIntf
 
-package com.birlasoft.empapp;
+package com.tulsi.empapp;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
